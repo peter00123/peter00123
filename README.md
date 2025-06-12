@@ -35,13 +35,15 @@
 
 <p align="center">
   <!-- GitHub stats card -->
+  <div align="center">
   <img width="500" src="https://github-readme-stats.vercel.app/api?username=peter00123&show_icons=true&hide=prs,issues,contribs,stars&count_private=true&theme=tokyonight&custom_title=Peter's%20GitHub%20Stats" />
-
+</div>
   <!-- Spacer -->
-  <br/><br/>
+  <div align="center">
 
   <!-- Language usage chart (bar style) -->
   <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter00123&theme=tokyonight&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages%20(By%20File%20Size%20~LOC)" />
+  </div>
 </p>
 
 
