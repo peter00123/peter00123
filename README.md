@@ -2,7 +2,7 @@
 <h3 align="center">🧑‍💻 Software Engineer | 💡 Always Building | Spider-Man Fan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer;Python+%7C+Flask+%7C+SQL+Enthusiast;IoT+%26+Embedded+Explorer;Loves+Tech+%26+Spidey+Stuff!&center=true&width=500&height=45&color=F75C7E&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer;Python+%7C+sql+%7C+Graphic Desining+Enthusiast;IoT+%26+Embedded+Explorer;Loves+Tech+%26+Spidey+Stuff!&center=true&width=500&height=45&color=F75C7E&vCenter=true&pause=1000" />
 </p>
 
 ---
@@ -12,7 +12,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Graphic%20Designing-E535AB?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBMS-1F8ACB?style=for-the-badge"/>
