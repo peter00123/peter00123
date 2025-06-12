@@ -35,7 +35,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peter00123&show_icons=true&hide=prs,issues,contribs,stars&count_private=true&theme=tokyonight&custom_title=Peter's%20GitHub%20Stats" />
+
+  <br/><br/>
+
+  <!-- Language stats card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter00123&theme=tokyonight&layout=compact&langs_count=5&hide_title=false&custom_title=Languages%20Used" />
 </p>
+
 
 
 ---
