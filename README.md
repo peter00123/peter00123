@@ -23,8 +23,8 @@
 
 ### 🌟 About Me
 
- 
 - 🧪 I enjoy building cool stuffs 
+- 📷 Graphic Desining as a hobbie
 - 🧠 Passionate about tech, problem solving, and automation  
 - 🌍 Languages: Malayalam, Tamil, and English  
 - 📬 Reach me: basilpetermathew@gmail.com  
@@ -42,7 +42,7 @@
   <div align="center">
 
   <!-- Language usage chart (bar style) -->
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter00123&theme=tokyonight&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages%20(By%20File%20Size%20~LOC)" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter00123&theme=tokyonight&layout=compact&langs_count=5&custom_title=Most%20Used%20Languages" />
   </div>
 </p>
 
