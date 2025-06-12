@@ -2,7 +2,7 @@
 <h3 align="center">🧑‍💻 Software Engineer | 💡 Always Building | Spider-Man Fan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer;Python+%7C+sql+%7C+Graphic Desining+Enthusiast;IoT+%26+Embedded+Explorer;Loves+Tech+%26+Spidey+Stuff!&center=true&width=500&height=45&color=F75C7E&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer;Python+%7C+sql+%7C+Graphic_Desining+Enthusiast;IoT+%26+Embedded+Explorer;Loves+Tech+%26+Spidey+Stuff!&center=true&width=500&height=45&color=F75C7E&vCenter=true&pause=1000" />
 </p>
 
 ---
@@ -34,9 +34,9 @@
 ### 🚀 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peter00123&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=tokyonight&custom_title=Total%20Commits%20Made" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peter00123&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=peter00123&show_icons=true&hide=prs,issues,contribs,stars&count_private=true&theme=tokyonight&custom_title=Peter's%20GitHub%20Stats" />
 </p>
+
 
 ---
 
